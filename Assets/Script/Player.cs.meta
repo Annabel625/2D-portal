@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 66a59d832db0a7f49abfccbf83576d9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gchecker: {instanceID: 0}
+  - lwchecker: {instanceID: 0}
+  - rwchecker: {instanceID: 0}
+  - currentFace: {instanceID: 0}
+  - neutralFace: {fileID: 21300000, guid: 197e6b1b899bb9542b8f4e872a9112c7, type: 3}
+  - jumpFace: {instanceID: 0}
+  - leftFace: {instanceID: 0}
+  - rightFace: {instanceID: 0}
+  - fallFace: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
